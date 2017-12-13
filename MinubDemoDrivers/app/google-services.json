@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228397184536",
+    "firebase_url": "https://minub-demo.firebaseio.com",
+    "project_id": "minub-demo",
+    "storage_bucket": "minub-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228397184536:android:26aefcb43ab83449",
+        "android_client_info": {
+          "package_name": "com.example.arturosf.minubdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228397184536-7l7cr3s2keooqah8jav6cokios05j21r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Uj0P-pB62gYBivePFzMzfm3Fb6mU-rM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
